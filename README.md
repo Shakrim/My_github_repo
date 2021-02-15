@@ -1,2 +1,3 @@
 # My_github_repo
-I will stest my Github knowledge here.
+I will test my Github knowledge here.
+I have added new text into this file. # Pridavame tento radek
